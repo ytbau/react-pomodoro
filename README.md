@@ -9,6 +9,10 @@
 
 ![homescreen](homescreen.png)
 
+## Tools
+The creator and his proponents encourage a low-tech approach, using a mechanical timer, paper, and pencil. The physical act of winding the timer confirms the user's determination to start the task; ticking externalises desire to complete the task; ringing announces a break. Flow and focus become associated with these physical stimuli.
+The technique has inspired application software for several platforms.
+
 ## Features
 
 - **Add to homescreen**
