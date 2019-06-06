@@ -1,4 +1,4 @@
-# [React Pomodoro](http://afonsopacifer.github.io/react-pomodoro/)
+# [React Pomodoro]
 
 [![Build Status](https://travis-ci.org/afonsopacifer/react-pomodoro.svg?branch=master)](https://travis-ci.org/afonsopacifer/react-pomodoro)
 [![release](https://img.shields.io/badge/release-v0.4.1-brightgreen.svg)](https://github.com/afonsopacifer/react-pomodoro/archive/0.4.1.zip)
